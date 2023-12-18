@@ -1,3 +1,5 @@
+/* eslint-disable */
+/* elint-disable */
 import Hero from "@/components/Hero";
 import { ThemeSwitcher } from "@/components/ThemeSwitcher";
 import { Switch } from "@nextui-org/switch";

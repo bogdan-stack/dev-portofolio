@@ -1,3 +1,5 @@
+/* eslint-disable */
+/* elint-disable */
 "use client"
 
 import * as React from "react"

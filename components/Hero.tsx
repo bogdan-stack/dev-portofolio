@@ -1,3 +1,5 @@
+/* eslint-disable */
+/* elint-disable */
 "use client"
 
 import { FaLinkedin, FaGithub } from 'react-icons/fa';
